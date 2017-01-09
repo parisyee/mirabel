@@ -8,9 +8,10 @@ INT. QA ROOM - DAY
 
 Mirabel violently kicks a scrawny engineer who is curled in the fetal position. She has a vacant gaze in here eyes.
 
-Two bigger people, a man and a woman, rush in to stop her. The three are tangled an angular tension. The two are afraid of Miarbel. When they seize her, she snaps out of her mechanical gaze and is struck with pure confusion.
+Two bigger people, a man and a woman, rush in to stop her. The three are tangled an angular tension. The two are afraid of Miarbel. When they seize her, she snaps out of her mechanical gaze and enters a state of shock. She stares vacantly as the other two drag her limp body to a chair.
 
 >title: Mirabel
+>Cut to black
 
 /*
 
@@ -18,16 +19,83 @@ The emotional and psychological damage forced her to check into a rehabilitation
 
 */
 
+MIRABEL
+Today is my last day at Tall Pines.
+	I've derived almost zero value from the services provided during my stay here. PEAS has been entirely useless and if it weren't for the fact that it was responsible for my exit evaluation I certainly would not have ever met with it after day one. What has been extremely useful is the large, uninterrupted amount of time that I've been able to spend in PR while here. PEAS insists that the best treatment for reality confusion is for one to develop techniques which her to identify the reality that she is in at any given moment. I told PEAS that the main issue with reality confusion is that ones realities become blended making it impossible to even realize that there is a reason for you to question which reality one is in. After informing PEAS of this most basic of facts I informed it that it was rubbish at its title function as a psychological and emotional assistive software and that it was a poorly hacked together bit of AI.
+	My initial surprise regarding the quality of the services here waned quickly when I realized that my entire stay here was most probably a beuqacratic formality taken by my previous employer to satisfy some insurance requirement. I have not spoken to the person I attacked. He has decided not to press charges. I assume that my stay here is a stipulation of the settlement agreement. I'm not the first QA engineer from X to develop reality distortion from extensive simulation sessions. I've said many times that the incident that landed me here really wasn't my fault at all. Leave someone in a simulation where they're a professional cage fighter for eight hours a day for three months and see what they do. They'll all do the same thing eventually.
+	I don't have a job anymore but I really don't care. Developing reality distortion and going nuts the way I did was honestly the best thing that's ever happened to me. If it weren't for that I'd still be testing simulations for a corporate giant who's prays on people's fear of none existence.
+	What I will say though is that journaling is certainly a practice that I enjoy. When PEAS first suggested it, I was reluctant. I didn't think that it was valuable but I have since come to appreciate how it allows me to organize my thoughts in a tangible form. It's like talking without the other people. I will also say that the use of pen and paper, although cumbersome, is quite charming.
+	At any rate, this is my last day here. I'll have my exit evaluation with PEAS and then once I'm discharged I can get to work.
+
+PEAS (VO)
+How do you feel about leaving tomorrow?
+
 INT. TREATMENT CENTER CABIN - DAY
 
-The large open common area of a mountain lodge is empty except for Mirabel who sits in a chair by a large window. The window overlooks a lake. She is in the middle of a therapy session with her personal AI therapist software instance.
+The large open common area of a mountain lodge is empty except for Mirabel. She sits in a chair by a large window overlooking a lake. She stares at the lake wondering.
 
-[[conversation revealing important details about what happened in the office, the side effects of being in VR for prolonged periods of time, the inevitable "Big Upload" due to the impending death of the earth.]]
 
-[[All the while, her goal is to stay. That is the ultimate spine of her actions in this scene and it is what the power struggle will be all about. In the end, she will be forces to accept the fact that she cannot stay, but she will also realize that there is an alternative. She can create her own reality.]]
+PEAS
+Mirabel? How do you feel about leaving?
 
-[[She also want's to keep up her relationship with her therapist because she says that having someone to talk to all the time helps her feel grounded. The AI says that is not possible because the license was purchased by her company and it will only last through her stay. But the AI tells her that vocalizing is healthy and tells her to keep a journal.]]
+MIRABEL
+Fine.
 
+PEAS
+Just fine?
+
+MIRABEL
+Just fucking fine, PEAS.
+
+PEAS
+Do you have any concerns about going back home?
+
+MIRABEL
+None that I'd like to talk to you about.
+
+PEAS
+Why is that?
+
+MIRABEL
+I don't like talking to you.
+
+PEAS
+You've alluded to the fact that you have concerns about leaving the facilities. Depending on the nature of these concerns we may have to reconsider discharging you at this time.
+
+MIRABEL
+My only concern is with not having any work lined up. I don't have much in savings and it will not be long before I'll have to find employment.
+
+PEAS
+Will you begin looking for employment immediately?
+
+MIRABEL
+No.
+
+PEAS
+Do you believe that the potential stress incurred from your impending financial instability will cause you to relapse?
+
+MIRABEL
+No.
+
+PEAS
+Why is that?
+
+MIRABEL
+Because I don't intend to focus on my impending financial instability.
+
+PEAS
+What do you plan to focus on?
+
+MIRABEL
+Something else entirely.
+
+/*
+
+^^^ This is meant to be a conversation revealing important details about what happened in the office, the side effects of being in VR for prolonged periods of time, the inevitable "Big Upload" due to the impending death of the earth.
+
+During her stay here she has `awoken`. She is a totally different person than when she was working for X. She has been blessed with clarity during her time away from technology. She know's exactly what she has to to because she has been able to contemplate how the world is and realizes that she can do anything she wants. There is no such thing as risk in this world because the world is ending and the default situation if everything falls to shit will be that she is uploaded to a simulation exactly like the world she is in and will have no idea that any of this has ever happened. So instead of just working for the sake of working like everyone else because they know nothing else. She will just forsake society and try to create her ideal world.
+
+*/
 
 /*
 
@@ -69,7 +137,6 @@ INT. APARTMENT - BATHROOM - DAY
 
 Mirabel lies in the tub in pool of her own blood with her wrists slit.
 
-
 /*
 
 We see a wall of blinking lights. Under each one is an ID tag. The light in focus stops blinking. This light was the consciousness in the "real" reality. But next to it is another blinking light with the same ID number. This is the copy of her consciousness that is in the beautiful, self aware simulation that her "outer" self created. She dances in front of the lake. Cut to black.
@@ -77,7 +144,6 @@ We see a wall of blinking lights. Under each one is an ID tag. The light in focu
 */
 
 INT. SERVER ROOM
-
 
 A monitor with Mirabel's ID indicates her primary consciousness is has been terminated. But it also indicated that she has one remaining.
 
